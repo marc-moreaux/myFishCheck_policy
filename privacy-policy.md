@@ -5,7 +5,7 @@ Licence:
 ### 1. Services of the ZHAW
 The ZHAW provides the MyFishCheck software free of charge. The software facilitates the assessment of the animal welfare of fish in a scientifically sound manner based on the state of knowledge at the time of the corresponding software version. The software is used for internal company control and is not a basis for official decisions or legal regulations.
 
-###2. Obligations of the users of the software
+### 2. Obligations of the users of the software
 The users undertake to use the software only for the intended purpose.
 
 ### 3. Disclaimer of liability
